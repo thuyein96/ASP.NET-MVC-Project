@@ -1,4 +1,4 @@
-namespace RunGroopWebApp.Models
+﻿namespace RunGroopWebApp.Models
 {
     public class ErrorViewModel
     {
